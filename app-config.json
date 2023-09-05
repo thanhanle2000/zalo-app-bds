@@ -1,0 +1,31 @@
+{
+  "app": {
+    "title": "Pháp Lý Nhà Đất BĐS",
+    "headerColor": "",
+    "textColor": "black",
+    "statusBarColor": "#2196f3",
+    "leftButton": "none",
+    "statusBar": "blue",
+    "selfControlLoading": false,
+    "hideAndroidBottomNavigationBar": false,
+    "hideIOSSafeAreaBottom": false,
+    "actionBarHidden": true
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "pages": [
+    "/user",
+    "/form",
+    "/dynamic-route",
+    "/about",
+    "/404"
+  ],
+  "template": {
+    "primaryColor": "white",
+    "prefixCurrencySymbol": false,
+    "currencySymbol": "đ",
+    "headerLogo": ""
+  }
+}
